@@ -330,4 +330,3 @@ Inventory-Management/
 ```
 
 ---
->>>>>>> ba183a3d13aefc5de0557237edcf60ba28b86084

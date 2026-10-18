@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StockPilot Inventory Management System (DBMS Project)
 
 A full-stack Inventory Management System where **the database is the star**. Every feature visibly uses MySQL: joins, constraints, triggers, stored procedures, views, and indexes.
@@ -329,3 +330,4 @@ Inventory-Management/
 ```
 
 ---
+>>>>>>> ba183a3d13aefc5de0557237edcf60ba28b86084
